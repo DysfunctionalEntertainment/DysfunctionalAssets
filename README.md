@@ -1,2 +1,2 @@
 # DysfunctionalAssets
-Assets such as images and videos to be used in our projects.
+Assets such as images, videos and our logos to be used in our projects hosted on GitHub.
